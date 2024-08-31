@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ativelio.github.io/sitemap.html.gz
+Sitemap: https://ativelio.github.io/app/sitemap.html.gz
+Sitemap: https://ativelio.github.io/assets/sitemap.html.gz
+Sitemap: https://ativelio.github.io/css/sitemap.html.gz
+Sitemap: https://ativelio.github.io/includes/sitemap.html.gz
+Sitemap: https://ativelio.github.io/item/sitemap.html.gz
+Sitemap: https://ativelio.github.io/src/sitemap.html.gz
